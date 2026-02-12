@@ -44,4 +44,5 @@ Traditional file systems rely on manual folder management. This project provides
 
 1. Clone Repository
 ```bash
+https://semantic-space-organizer.lovable.app
 git clone https://github.com/eedulabhaskar/semantic-file-organizer.git
